@@ -4,6 +4,7 @@
 - [Mayur Madnani](https://github.com/mayurmadnani)
 - [Bardr](https://github.com/Bardr)
 - [Himanshu Jotwani]()
+- [Ravi Gupta](https://github.com/guptaravi540)
 - [Karan Tandon](https://github.com/karan2dec)
 - [rciupei](https://github.com/rciupei)
 - [Anthony Carbajal](https://github.com/acarbaro)
